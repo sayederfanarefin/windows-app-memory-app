@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SPACESTATION</Machine>
+    <WindowsUser>Erfan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>65c6a364-10d7-4630-84ac-77332fee77b1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>904AC3DDDEC6816CC814D21D844A34DFEBCA8FB081575A2EAD74A73B9FA54E5A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>65c6a364-10d7-4630-84ac-77332fee77b1_1.0.0.0_neutral__esdrc7g6cd7xc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>65c6a364-10d7-4630-84ac-77332fee77b1_esdrc7g6cd7xc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>65c6a364-10d7-4630-84ac-77332fee77b1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Erfan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-22T20:29:17.715</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\The Memory App!.Windows.exe">
+      <PackagePath>The Memory App!.Windows.exe</PackagePath>
+      <Modified>2014-09-22T20:29:16.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-22T20:29:15.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\home.xbf">
+      <PackagePath>home.xbf</PackagePath>
+      <Modified>2014-09-22T20:29:15.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-22T20:29:15.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\The Memory App!.Windows.xr.xml">
+      <PackagePath>The Memory App!.Windows.xr.xml</PackagePath>
+      <Modified>2014-09-22T20:29:15.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-22T20:29:17.131</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

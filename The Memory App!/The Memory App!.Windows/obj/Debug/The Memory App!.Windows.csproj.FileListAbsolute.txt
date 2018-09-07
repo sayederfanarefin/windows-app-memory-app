@@ -1,0 +1,37 @@
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\App.xbf
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\home.xbf
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\MainPage.xbf
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\The Memory App!.Windows.xr.xml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\The Memory App!.Windows.exe
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\The Memory App!.Windows.pdb
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\resources.pri
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\bin\Debug\The Memory App!.Windows.build.appxrecipe
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\App.g.i.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\App.g.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\home.g.i.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\home.g.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\App.xaml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\MainPage.xaml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\App.xbf
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\MainPage.xbf
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\home.xaml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\home.xbf
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\The Memory App!.Windows.exe
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\The Memory App!.Windows.pdb
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\priconfig.xml
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\layout.resfiles
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\resources.resfiles
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\pri.resfiles
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\qualifiers.txt
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Erfan\SkyDrive\The Memory App!\The Memory App!\The Memory App!\The Memory App!.Windows\obj\Debug\ProjectArchitectures.txt
